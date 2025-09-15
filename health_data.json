@@ -1,0 +1,25 @@
+{
+    "keywords": {
+        "dengue_symptoms": {
+            "en": "Dengue symptoms include high fever, severe headache, joint and muscle pain, and skin rash. If you experience these, please consult a doctor.",
+            "hi": "ଡେଙ୍ଗୁ ର ଲକ୍ଷଣ ହେଉଛି ଉଚ୍ଚ ଜ୍ୱର, ପ୍ରବଳ ମୁଣ୍ଡବିନ୍ଧା, ଗଣ୍ଠି ଏବଂ ମାଂସପେଶୀ ଯନ୍ତ୍ରଣା ଏବଂ ଚର୍ମ ରାଶି | ଯଦି ଆପଣ ଏଗୁଡ଼ିକୁ ଅନୁଭବ କରନ୍ତି, ଦୟାକରି ଡାକ୍ତରଙ୍କ ସହିତ ପରାମର୍ଶ କରନ୍ତୁ |"
+        },
+        "malaria_symptoms": {
+            "en": "Malaria symptoms include fever, chills, sweating, headache, nausea, and vomiting. They often appear in cycles.",
+            "hi": "ମ୍ୟାଲେରିଆର ଲକ୍ଷଣ ହେଉଛି ଜ୍ୱର, ଥଣ୍ଡା, ଝାଳ, ମୁଣ୍ଡବିନ୍ଧା, ବାନ୍ତି ଏବଂ ବାନ୍ତି | ଏହି ଲକ୍ଷଣଗୁଡ଼ିକ ପ୍ରାୟତଃ ଚକ୍ରରେ ଦେଖାଯାଏ |"
+        
+        },
+        "dengue_prevention": {
+            "en": "To prevent dengue, eliminate standing water, use mosquito nets, wear long-sleeved clothes, and use mosquito repellent.",
+            "hi": "ଡେଙ୍ଗୁକୁ ରୋକିବା ପାଇଁ, ଠିଆ ହୋଇଥିବା ପାଣିକୁ ହଟାନ୍ତୁ, ମଶା ଜାଲ ବ୍ୟବହାର କରନ୍ତୁ, ଲମ୍ବା ପୋଷାକ ପିନ୍ଧନ୍ତୁ ଏବଂ ମଶା ବିକର୍ଷକ ବ୍ୟବହାର କରନ୍ତୁ |"
+        },
+        "malaria_prevention": {
+            "en": "To prevent malaria, use mosquito nets, mosquito repellent, and take antimalarial medication as advised by a doctor.",
+            "hi": "ମ୍ୟାଲେରିଆକୁ ରୋକିବା ପାଇଁ, ମଶା ଜାଲ ଏବଂ ମଶା ବିକର୍ଷକ ବ୍ୟବହାର କରନ୍ତୁ, ଏବଂ ଡାକ୍ତରଙ୍କ ପରାମର୍ଶ ଅନୁଯାୟୀ ଆଣ୍ଟିମାଲେରିଆଲ୍ ଔଷଧ ନିଅନ୍ତୁ |"
+        },
+        "vaccine_schedule": {
+            "en": "A typical vaccine schedule includes doses for polio, DPT, Hepatitis B, and measles in the first year. Consult a pediatrician for a complete schedule.",
+            "hi": "ଏକ ସାଧାରଣ ଟୀକାକରଣ କାର୍ଯ୍ୟସୂଚୀରେ ପ୍ରଥମ ବର୍ଷରେ ପୋଲିଓ, ଡିପିଟି, ହେପାଟାଇଟିସ୍ ବି ଏବଂ ମିଳିମିଳା ପାଇଁ ଡୋଜ୍ ଅନ୍ତର୍ଭୁକ୍ତ | ଏକ ସମ୍ପୂର୍ଣ୍ଣ କାର୍ଯ୍ୟସୂଚୀ ପାଇଁ ଜଣେ ଶିଶୁରୋଗ ବିଶେଷଜ୍ଞଙ୍କ ସହିତ ପରାମର୍ଶ କରନ୍ତୁ |"
+        }
+    }
+}
